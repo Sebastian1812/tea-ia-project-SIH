@@ -6,6 +6,7 @@ Sistema basado en IA que genera reportes terapéuticos automáticos para niños 
 - **Modelos de IA local** via Ollama
 - **Exportación a PDF** profesional
 - **Análisis de ejercicios sensoriales**
+- Los "test" y "PRUEBA" son para verificar conexiones y funcionamientos del sistema
 
 ## Instalación
 
