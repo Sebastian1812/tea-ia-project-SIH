@@ -53,11 +53,11 @@ ollama pull llama3.2:1b
 
 ### 6. Configurar Ollama
 cp .env.example .env
-# Editar .env con tus credenciales
+
+Editar .env con tus credenciales
 
 
-
-USO
+## FUNCIONALIDAD
 
 # Generar reporte
 python main.py --session_id 1 --output mi_reporte.pdf
