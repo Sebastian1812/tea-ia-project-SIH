@@ -28,6 +28,12 @@ source tea-env/bin/activate  # Linux/Mac
 ### 3. Instalar dependencias
 pip install -r requirements.txt
 
+SINO FUNCIONA
+Solo es necesario instalar:
+	- Ollama
+	- Mysql-server
+	- Python
+
 ### 4. Configurar base de datos MySQL
 CREATE DATABASE tesis_tea;
 CREATE USER 'tea_user'@'localhost' IDENTIFIED BY 'TuPassword123!';
