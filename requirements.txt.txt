@@ -1,0 +1,4 @@
+ollama==0.1.7
+mysql-connector-python==8.1.0
+reportlab==4.0.4
+python-dotenv==1.0.0
