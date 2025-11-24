@@ -52,13 +52,13 @@ USO
 # Generar reporte
 python main.py --session_id 1 --output mi_reporte.pdf
 
-##############  RECURSOS DE PROCESAMIENTO:
+# RECURSOS DE PROCESAMIENTO:
 SE RECOMIENDA USAR UNA GPU PARA GENERAR UNA MAYOR CANTIDAD DE REPORTES EN POCO TIEMPO, EN CASO DE USAR CPU, PODRÍA TARDAR ENTRE 5 A 15 MINUTOS.
 
-VM UTILIZADA:
+# VM UTILIZADA:
 	Tipo: Standard D4s v3 (4 vCPUs, 16 GB RAM)
 	SO: Ubuntu 22.04 LTS
 	Disco: SSD Premium 64GB
 
-AUTORES:
+# AUTOR
     Sebastián Jiménez Rojas - Desarrollo e implementación
