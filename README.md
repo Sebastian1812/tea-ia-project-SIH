@@ -48,6 +48,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 # Descargar modelo
 ollama pull llama3.1:8b
+
 ollama pull llama3.2:1b
 
 ### 6. Configurar Ollama
