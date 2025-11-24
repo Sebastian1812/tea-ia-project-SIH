@@ -22,7 +22,9 @@ cd tea-ia-Project
 ```
 ### 2. Configurar entorno virtual
 python3 -m venv tea-env
+
 source tea-env/bin/activate  # Linux/Mac
+
 tea-env\Scripts\activate  # Windows
 
 ### 3. Instalar dependencias
